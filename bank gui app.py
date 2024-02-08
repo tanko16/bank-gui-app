@@ -1,4 +1,4 @@
-# imports
+#imports
 from tkinter import *
 import os
 from typing import TextIO

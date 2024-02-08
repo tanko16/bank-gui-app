@@ -1,5 +1,5 @@
 #imports
-from tkinter import *
+from tkinter import 
 import os
 from typing import TextIO
 
